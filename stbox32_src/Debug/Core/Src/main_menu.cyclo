@@ -1,0 +1,8 @@
+../Core/Src/main_menu.c:15:6:main_menu_init	1
+../Core/Src/main_menu.c:24:6:main_menu_draw_title	2
+../Core/Src/main_menu.c:38:6:main_menu_draw_games	1
+../Core/Src/main_menu.c:75:6:main_menu_draw_sound_icon	8
+../Core/Src/main_menu.c:106:6:main_menu_draw_selection_box	8
+../Core/Src/main_menu.c:147:6:main_menu_draw	2
+../Core/Src/main_menu.c:173:6:main_menu_update_selection	5
+../Core/Src/main_menu.c:187:6:main_menu_run	17

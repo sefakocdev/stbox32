@@ -1,0 +1,4 @@
+../Core/Src/snakedemo.c:17:6:draw_cell	32	static
+../Core/Src/snakedemo.c:21:6:change_direction_randomly	16	static
+../Core/Src/snakedemo.c:31:6:init_snake	16	static
+../Core/Src/snakedemo.c:42:6:move_snake	16	static

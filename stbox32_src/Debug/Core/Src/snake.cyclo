@@ -1,0 +1,16 @@
+../Core/Src/snake.c:15:6:snake_init	1
+../Core/Src/snake.c:30:6:snake_reset_game	2
+../Core/Src/snake.c:57:6:snake_draw_border	2
+../Core/Src/snake.c:65:6:snake_draw_cell	5
+../Core/Src/snake.c:74:6:snake_draw_apple	9
+../Core/Src/snake.c:107:6:snake_draw_game	2
+../Core/Src/snake.c:118:6:snake_spawn_apple	6
+../Core/Src/snake.c:142:6:snake_check_collision	8
+../Core/Src/snake.c:160:6:snake_check_apple_collision	4
+../Core/Src/snake.c:168:6:snake_handle_input	10
+../Core/Src/snake.c:202:6:snake_move	8
+../Core/Src/snake.c:266:6:snake_update	2
+../Core/Src/snake.c:274:6:snake_show_game_over	4
+../Core/Src/snake.c:317:6:snake_show_menu	2
+../Core/Src/snake.c:346:6:snake_wait_for_start	6
+../Core/Src/snake.c:370:6:snake_play	11

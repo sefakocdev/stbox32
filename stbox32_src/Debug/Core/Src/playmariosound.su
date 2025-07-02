@@ -1,0 +1,5 @@
+../Core/Src/playmariosound.c:55:6:set_sound_enabled	16	static
+../Core/Src/playmariosound.c:56:5:is_sound_enabled	4	static
+../Core/Src/playmariosound.c:58:6:play_tone_conditional	16	static
+../Core/Src/playmariosound.c:63:6:play_tone	24	static
+../Core/Src/playmariosound.c:81:6:play_mario	24	static
