@@ -6,8 +6,8 @@ A feature-rich, portable mini game console built on the STM32F411RE microcontrol
 
 STBOX32 is a compact gaming device that combines modern embedded systems technology with classic gaming experiences. The console features a color LCD display, dual analog joysticks, sound effects, and a custom 3D-printed enclosure, offering an engaging platform for both educational and recreational purposes.
 
-### 🎬 Demo Video
-[![STBOX32 Demo](https://img.youtube.com/vi/dF-4JCDcyiY/0.jpg)](https://youtu.be/dF-4JCDcyiY)
+### 🎬 Demo Video  
+👉 [Watch the demo video on YouTube](https://youtu.be/dF-4JCDcyiY)
 
 ## ✨ Features
 
